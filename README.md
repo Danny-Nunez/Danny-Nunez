@@ -10,4 +10,5 @@ A passionate Web developer. An eye for attention to details😄
 💬 Ask me about React, Redux, Threejs, Adobe suites, Web3
 
 📫 How to reach me dnunez22@gmail.com
-![image](https://user-images.githubusercontent.com/114783191/205975879-1cab6915-e02e-4ba9-b3aa-bf8b16cb5a0f.png)
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="coding on desk" style="width:50%;height:50%;">
