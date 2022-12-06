@@ -14,11 +14,11 @@ A passionate Web developer. An eye for attention to details😄
 📫 How to reach me dnunez22@gmail.com
 
   <p><h4>▶ Languages<h4></p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react logo" style="width:40px;height:40px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass logo" style="width:40px;height:40px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html 5 logo" style="width:40px;height:40px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="html 5 logo" style="width:40px;height:40px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html 5 logo" style="width:40px;height:40px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="html 5 logo" style="width:40px;height:40px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="html 5 logo" style="width:40px;height:40px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python logo" style="width:40px;height:40px;">
 
 </div>
