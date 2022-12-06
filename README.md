@@ -1,4 +1,4 @@
-Hi 👋, I'm Danny
+<h1>Hi 👋, I'm Danny</h1>
 A passionate Web developer. An eye for attention to details😄
 
 
