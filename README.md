@@ -17,5 +17,6 @@ A passionate Web developer. An eye for attention to details😄
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html 5 logo" style="width:40px;height:40px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="html 5 logo" style="width:40px;height:40px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html 5 logo" style="width:40px;height:40px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="html 5 logo" style="width:40px;height:40px;">
 
 </div>
