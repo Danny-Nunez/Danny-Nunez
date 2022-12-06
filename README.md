@@ -11,4 +11,4 @@ A passionate Web developer. An eye for attention to details😄
 
 📫 How to reach me dnunez22@gmail.com
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="coding on desk" style="width:50%;height:50%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="coding on desk" style="width:20px;height:20px;">
