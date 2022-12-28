@@ -5,7 +5,7 @@
 A passionate Web developer. An eye for attention to details😄
 
 
-🔭 I’m currently attending MITXPRO, Harvard CS50, Meta and Google certs.
+🔭 I’m currently attending MITXPRO, Meta and Google certs.
 
 📝 I regularly study and always learn new tech.
 
