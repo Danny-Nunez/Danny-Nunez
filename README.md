@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Danny</h1>
-I'm a full stack developer with a passion for creating innovative web applications and have been working in the software development industry for 5 years. I specialize in developing web applications using HTML, CSS, JavaScript, React, Node.js, and other modern technologies. I'm also experienced in developing mobile applications using React Native and Flutter. I'm an avid learner and am always looking to stay up-to-date with the latest technologies and trends in the software development industry.
+I'm a full stack developer with a passion for creating innovative web applications and have been working in the software development industry for over 5 years. I specialize in developing web applications using HTML, CSS, JavaScript, React, Node.js, and other modern technologies. I'm also experienced in developing mobile applications using React Native and Flutter. I'm an avid learner and am always looking to stay up-to-date with the latest technologies and trends in the software development industry.
 </div>
 
 <p></p>
