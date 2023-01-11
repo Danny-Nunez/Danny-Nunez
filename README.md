@@ -11,9 +11,9 @@ A passionate Web developer. An eye for attention to details😄
 
 💬 Ask me about React, Redux, Threejs, Adobe suites, Web3
 
-📫 How to reach me dnunez22@gmail.com
+ How to reach me 
   
-🐤 <a href="https://twitter.com/DannyFullstack" target="_blank">Twitter</a> 🔗 <a href="https://www.linkedin.com/in/danny-nunez-a7886b209/" target="_blank">LinkedIn</a>
+🐤 <a href="https://twitter.com/DannyFullstack" target="_blank">Twitter</a>   🔗 <a href="https://www.linkedin.com/in/danny-nunez-a7886b209/" target="_blank">LinkedIn</a>  📫 <a href="dnunez22@gmail.com" target="_blank">Email</a>
 
   <p><h4>▶ Languages<h4></p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass logo" style="width:40px;height:40px;">
