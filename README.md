@@ -3,11 +3,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Danny</h1>
-I'm a full stack developer with a passion for creating innovative web applications and have been working in the software development industry for 5 years. I specialize in developing web applications using HTML, CSS, JavaScript, React, Node.js, and other modern technologies. I'm also experienced in developing mobile applications using React Native and Flutter. I'm an avid learner and am always looking to stay up-to-date with the latest technologies and trends in the software development industry. In my free time, I enjoy reading tech blogs and attending conferences to stay informed about the latest advancements in the field. I'm a team player who loves collaborating with others to create amazing products that solve real-world problems. I'm also passionate about mentoring junior developers and helping them grow their skillset. 
+I'm a full stack developer with a passion for creating innovative web applications and have been working in the software development industry for 5 years. I specialize in developing web applications using HTML, CSS, JavaScript, React, Node.js, and other modern technologies. I'm also experienced in developing mobile applications using React Native and Flutter. I'm an avid learner and am always looking to stay up-to-date with the latest technologies and trends in the software development industry.
 </div>
 
 <p></p>
- <p align="center"><b>How to reach me</b> 🐤 <a href="https://twitter.com/DannyFullstack" target="_blank">Twitter</a>   🔗 <a href="https://www.linkedin.com/in/danny-nunez-a7886b209/" target="_blank">LinkedIn</a>  📫 <a href="dnunez22@gmail.com" target="_blank">Email</a></p>
+ <p align="center"><b>Contact:</b> 🐤 <a href="https://twitter.com/DannyFullstack" target="_blank">Twitter</a>   🔗 <a href="https://www.linkedin.com/in/danny-nunez-a7886b209/" target="_blank">LinkedIn</a>  📫 <a href="dnunez22@gmail.com" target="_blank">Email</a></p>
   
 <p></p>
   
