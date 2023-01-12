@@ -51,6 +51,11 @@ I'm a full stack developer with a passion for creating innovative web applicatio
 ![Axios](https://img.shields.io/badge/-Axios-black?logo=axios)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-black?logo=nodemon)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?logo=openai)
+![Solidity](https://img.shields.io/badge/-Solidity-black?logo=solidity)
+![WebGL](https://img.shields.io/badge/-WebGL-black?logo=webgl)
+![Wordpress](https://img.shields.io/badge/-Wordpress-black?logo=wordpress)
+![Postman](https://img.shields.io/badge/-Postman-black?logo=postman)
+![PHP](https://img.shields.io/badge/-PHP-black?logo=php)
 
 ---
 
