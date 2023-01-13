@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Danny</h1>
-Full Stack Developer based out of baltimore Maryland. With over 5 years of experience in the software development industry, I am a full stack developer with a passion for creating innovative web applications. My expertise lies in developing web applications using HTML, CSS, JavaScript, React, Node.js, and other modern technologies. Additionally, I have experience in developing mobile applications using React Native and Flutter. As an avid learner, I am constantly striving to stay up-to-date with the latest technologies and trends in the software development industry.
+Full Stack Developer based out of Baltimore Maryland. With over 5 years of experience in the software development industry, I am a full stack developer with a passion for creating innovative web applications. My expertise lies in developing web applications using HTML, CSS, JavaScript, React, Node.js, and other modern technologies. Additionally, I have experience in developing mobile applications using React Native and Flutter. As an avid learner, I am constantly striving to stay up-to-date with the latest technologies and trends in the software development industry.
 </div>
 
 <p></p>
