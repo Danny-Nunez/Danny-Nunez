@@ -63,5 +63,5 @@ I'm a full stack developer with a passion for creating innovative web applicatio
   ### 🧔 What I do when I'm not writing code
 - ✨ **Interests**: Watching movies 📺 || working out 🏋️‍ || spending time with family 👨‍👨‍👧‍👧
 - 🎥 **Movies**: Star Wars collection || Matrix || Avengers Universe
-- 📚 **Books**: Harry Potter Collection && Star Wars Expanded Universe
+- 📚 **Books**: Harry Potter Collection & The Art of the Matrix
   
