@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Danny</h1>
-Based out of Baltimore Maryland. With over 5 years of experience in the software development industry, I am a full stack developer with a passion for creating innovative web applications. My expertise lies in developing web applications using HTML, CSS, JavaScript, React, Node.js, and other modern technologies. Additionally, I have experience in developing mobile applications using React Native and Flutter. As an avid learner, I am constantly striving to stay up-to-date with the latest technologies and trends in the software development industry.
+Based out of Baltimore Maryland. With over 8 years of experience in the software development industry, I am a full-stack developer with a passion for creating innovative web applications. My expertise lies in developing web applications using HTML, CSS, JavaScript, React, Node.js, and other modern technologies. Additionally, I have experience in developing mobile applications using React Native and Flutter. As an avid learner, I am constantly striving to stay up-to-date with the latest technologies and trends in the software development industry.
 </div>
 
 <p></p>
@@ -11,14 +11,14 @@ Based out of Baltimore Maryland. With over 5 years of experience in the software
   
 <p></p>
   
-- 📄 A passionate Full-Stack developer with an eye for attention to details😄. 
+- 📄 A passionate Full-Stack developer with an eye for attention to detail 😄. 
 
 
-- 🔭 I’m currently attending MITXPRO, Meta and Google certs.
+- 🔭 I’m currently attending MITXPRO, Meta, and Google certs.
 
 - 📝 I regularly study and always learn new tech.
 
-- 💬 Ask me about React, Redux, Threejs, Adobe suites, Web3
+- 💬 Ask me about React, Redux, Threejs, Adobe Suites, Web3
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDanny-Nunez&label=Visitors&labelColor=%231677f9&countColor=%23f47373)
@@ -29,7 +29,7 @@ Based out of Baltimore Maryland. With over 5 years of experience in the software
 |------|------------------------------------------|----------------------------------------|
 | 2023 | [ChainImperium.com](https://github.com/Danny-Nunez/chain-imperium) | ![NextJS](https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs) ![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=nodedotjs) ![Axios](https://img.shields.io/badge/-Axios-black?logo=axios) ![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel) ![React](https://img.shields.io/badge/-React-000000?logo=react) ![Web3](https://img.shields.io/badge/-Web3-black?logo=web3dotjs) ![Stripe](https://img.shields.io/badge/-Stripe-black?logo=stripe) ![RSS](https://img.shields.io/badge/-RSS-black?logo=rss) ![Facebook](https://img.shields.io/badge/-Facebook-black?logo=facebook)
 | 2023 | [Sociolly](https://github.com/Danny-Nunez/Sociolly-Web-App) | ![React](https://img.shields.io/badge/-React-000000?logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=round-square&logo=mongodb&logoColor=green) ![CSS](https://img.shields.io/badge/-CSS3-black?style=round-square&logo=css3) ![Redux](https://img.shields.io/badge/-Redux-black?logo=redux) ![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=nodedotjs) ![Axios](https://img.shields.io/badge/-Axios-black?logo=axios) ![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel) ![ExpressJS](https://img.shields.io/badge/-Express-black?style=round-square&logo=express&logoColor=white) ![Render](https://img.shields.io/badge/-Render-black?logo=render) ![Nodemon](https://img.shields.io/badge/-Nodemon-black?logo=nodemon)
-| 2023 | [WeFlixx.com](https://github.com/Danny-Nunez/Weflixxv2) | ![NextJS](https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs) ![Typescript](https://img.shields.io/badge/-Typerscript-000000?logo=typescript) ![Sass](https://img.shields.io/badge/-Sass-black?logo=sass) ![Redux](https://img.shields.io/badge/-Redux-black?logo=redux) ![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=nodedotjs) ![Axios](https://img.shields.io/badge/-Axios-black?logo=axios) ![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel) ![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase) ![IMDB](https://img.shields.io/badge/-IMDB-black?logo=imdb)
+| 2023 | [WeFlixx.com](https://github.com/Danny-Nunez/Weflixxv2) | ![NextJS](https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs) ![Typescript](https://img.shields.io/badge/-Typerscript-000000?logo=typescript) ![TailWindCSS](https://img.shields.io/badge/-TailwindCSS-black?logo=tailwindcss) ![Express](https://img.shields.io/badge/-Express-black?logo=express) ![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=nodedotjs) ![Axios](https://img.shields.io/badge/-Axios-black?logo=axios) ![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel) ![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase) ![IMDB](https://img.shields.io/badge/-IMDB-black?logo=imdb)
 | 2023 | [Stream Flixx](https://github.com/Danny-Nunez/StreamFlix) | ![React](https://img.shields.io/badge/-React-000000?logo=react) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?logo=tailwindcss) ![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=nodedotjs) ![Axios](https://img.shields.io/badge/-Axios-black?logo=axios) ![Netlify](https://img.shields.io/badge/-Netlify-black?logo=netlify) ![IMDB](https://img.shields.io/badge/-IMDB-black?logo=imdb)
 | 2022 | [Omega Grocery Market](https://github.com/Danny-Nunez/Omega-Grocery-Market) | ![Laravel](https://img.shields.io/badge/-Laravel-black?style=round-square&logo=laravel) ![HTML](https://img.shields.io/badge/-HTML5-black?style=round-square&logo=html5) ![SASS](https://img.shields.io/badge/-SASS-black?style=round-square&logo=sass) ![Flutter](https://img.shields.io/badge/-Flutter-black?style=round-square&logo=flutter) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=round-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=round-square&logo=firebase) ![GoogleMapsAPI](https://img.shields.io/badge/-GoogleMapsAPI-black?style=round-square&logo=googlemaps) ![PHP](https://img.shields.io/badge/-PHP-black?style=round-square&logo=php) |
 | 2022 | [Open AI ChatGPT Clone](https://github.com/Danny-Nunez/OpenAI-Matrix) | ![ViteJS](https://img.shields.io/badge/-viteJS-black?style=round-square&logo=vite&logoColor=green) ![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-black?logo=express) ![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel) ![Render](https://img.shields.io/badge/-Render-black?logo=render) ![Nodemon](https://img.shields.io/badge/-Nodemon-black?logo=nodemon) ![OpenAI](https://img.shields.io/badge/-OpenAI-black?logo=openai) |
