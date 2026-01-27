@@ -24,11 +24,6 @@ Based out of Baltimore Maryland. With over 10 years of experience in the softwar
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDanny-Nunez&label=Visitors&labelColor=%231677f9&countColor=%23f47373)
 
-### 🖥️  Projects
-<!-- table -->
-| Year | Title                                    | Technologies                           |
-|------|------------------------------------------|----------------------------------------|
-
 
 
 ### 🛠️ Familiar Technologies
