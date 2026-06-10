@@ -83,7 +83,7 @@ I am passionate about continuous learning, emerging technologies, software archi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnunez22&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danny-nunez" />
 </p>
 
 ---
