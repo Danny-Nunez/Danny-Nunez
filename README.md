@@ -3,23 +3,94 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Danny</h1>
-Based out of Baltimore Maryland. With over 15 years of experience in the software development industry, I am a full-stack developer with a passion for creating innovative web applications. My expertise lies in developing web applications using HTML, CSS, JavaScript, React, Node.js, and other modern technologies. Additionally, I have experience in developing mobile applications using React Native and Flutter. As an avid learner, I am constantly striving to stay up-to-date with the latest technologies and trends in the software development industry.
-</div>
+<h1 align="center">Hi 👋, I'm Danny Nunez</h1>
 
-<p></p>
- <p align="center"><b>Contact:</b> 🐤 <a href="https://twitter.com/DannyFullstack" target="_blank">Twitter</a>   🔗 <a href="https://www.linkedin.com/in/danny-nunez-a7886b209/" target="_blank">LinkedIn</a>  📫 <a href="dnunez22@gmail.com" target="_blank">Email</a></p>
-  
-<p></p>
-  
-- 📄 A passionate Full-Stack developer with an eye for attention to detail 😄. 
+<p align="center">
+Senior Full-Stack Engineer | AI Builder | Cloud Architect | Civic Education Technology Advocate
+</p>
 
+Based in Baltimore, Maryland, I am a Senior Full-Stack Engineer with 15+ years of experience designing, building, and scaling modern web applications, APIs, cloud infrastructure, and AI-powered platforms. I specialize in React, Next.js, Node.js, TypeScript, Python, AWS, and headless CMS architectures, with extensive experience delivering enterprise solutions for nonprofits, education organizations, and startups.
 
-- 🔭 I’m currently attending MITXPRO, Meta, and Google certs.
+Currently, I lead the development of large-scale digital platforms, AI-powered search systems, learning applications, authentication systems, and cloud-native services that serve educators, students, and organizations across the country. I enjoy solving complex technical challenges, improving developer workflows, and leveraging AI to create practical solutions that make a measurable impact.
 
-- 📝 I regularly study and always learn new tech.
+I am passionate about continuous learning, emerging technologies, software architecture, machine learning, and building products that improve the lives of users.
 
-- 💬 Ask me about React, Redux, Threejs, Adobe Suites, Web3
+<p align="center">
+  <b>Connect With Me</b><br/><br/>
+  🐦 <a href="https://twitter.com/DannyFullstack" target="_blank">Twitter</a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/danny-nunez-a7886b209/" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
+  📫 <a href="mailto:dnunez22@gmail.com">Email</a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Senior Full-Stack Engineer with 15+ years of software development experience.
+- 🏛️ Building AI-powered platforms, civic education technology, and enterprise applications.
+- ☁️ Experienced with AWS, serverless architecture, Docker, CI/CD, and cloud infrastructure.
+- 🤖 Developing AI applications using OpenAI, RAG systems, vector databases, semantic search, and automation workflows.
+- 🌐 Specialized in React, Next.js, TypeScript, Node.js, Python, GraphQL, and REST APIs.
+- 📱 Mobile development experience with React Native and Flutter.
+- 🔒 Experienced with Auth0, OAuth, SSO, security, and enterprise integrations.
+- 📚 Lifelong learner focused on AI Engineering, Cloud Architecture, and Software Design.
+- 💬 Ask me about React, Next.js, TypeScript, Node.js, Python, AWS, AI Engineering, GraphQL, System Design, and Headless CMS.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+### AI & Machine Learning
+- OpenAI
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases (Pinecone)
+- Semantic Search
+- AI Automation
+- Prompt Engineering
+
+### Mobile
+- React Native
+- Flutter
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dnunez22&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnunez22&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy building AI-powered applications, modern cloud architectures, and educational technology platforms that help scale impact to millions of users.
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDanny-Nunez&label=Visitors&labelColor=%231677f9&countColor=%23f47373)
