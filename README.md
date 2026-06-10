@@ -79,7 +79,7 @@ I am passionate about continuous learning, emerging technologies, software archi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnunez22&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danny-nunez&show_icons=true" />
 </p>
 
 <p align="center">
